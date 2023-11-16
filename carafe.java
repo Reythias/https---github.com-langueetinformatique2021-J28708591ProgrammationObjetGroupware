@@ -5,7 +5,7 @@
  * opérations ci dessus (Remplir, Vider, Contenu, Capacité et Transvaser)
  */
 
-public class Carafe {
+publicq class Carafe {
 	private int contenu_, capacité_;
 	
 	public Carafe(int capacité) {
